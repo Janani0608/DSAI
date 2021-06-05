@@ -206,13 +206,7 @@
 ; ** Constraints for bottom middle square **
 ; TODO constraints for 8.
 
-(assert (=
-		(*
-			(+ )
-			(+ )
-		)
-	0)
-)
+
 
 ;;;;;; --- END-CONSTRAINTS-8 ---
 
